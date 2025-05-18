@@ -1,3 +1,4 @@
+// New update on browser
 /**
  * Simple for loop - Complexity: O(n)
  * Simple and easy to understand but not efficient for large n.
