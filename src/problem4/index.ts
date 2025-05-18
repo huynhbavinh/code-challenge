@@ -32,6 +32,6 @@ function sum_to_n_c(n: number): number {
 
 console.info('Start Test')
 console.assert(sum_to_n_A(5) === 15, "Expression returned false")
-console.assert(sum_to_n_B(5) === 15, "Expression returned false")
 console.assert(sum_to_n_c(5) === 15, "Expression returned false")
+console.assert(sum_to_n_c(5) === 15, "Expression returned false!!!")
 console.info('End Test')
